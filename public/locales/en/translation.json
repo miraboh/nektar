@@ -1,0 +1,54 @@
+{
+  "header": {
+    "logo": "Logo",
+    "order": "Prendre rendez-vous"
+  },
+  "main": {
+    "services": {
+      "title": "Services & Tarifs",
+      "subtitle": "Créez une synergie parfaite entre design élégant et performance technique avec nos solutions web et mobiles de pointe.",
+      "description": "Nous nous concentrons sur deux services à forte valeur ajoutée, la création de sites web sur mesure et le développement d'applications mobiles personnalisées. Notre approche simplifiée vous offre l'avantage d'une spécialisation et d'une expertise inégalées."
+    },
+
+
+    "vitrine": {
+      "title": "Création site vitrine",
+      "description": "Notre équipe de designers talentueux garantit un design époustouflant et responsive pour votre site, alliant esthétique et fonctionnalité. Qu'il s'agisse d'un ordinateur, d'une tablette ou d'un smartphone, votre site s'ajustera parfaitement, offrant une expérience utilisateur optimale.\n\n\n Facilitez la communication avec vos clients grâce à notre formulaire de contact, éliminant toute barrière entre vous et vos visiteurs. Ne manquez plus aucune opportunité de conversion en permettant à vos clients potentiels de vous contacter facilement. De plus, optimisez votre emploi du temps avec notre système de prise de rendez-vous en ligne. La planification de rencontres avec vos clients est simplifiée, créant une expérience client fluide et efficace.",
+      "getStarted": "A partir de 450 €"
+    },
+    "Création": {
+      "title": "Création site e-commerce",
+      "description": "Nos sites e-commerce combinent un design élégant et performant, créant des vitrines en ligne captivantes pour vos produits. Les fiches produits, soigneusement rédigées avec des descriptions percutantes et des images époustouflantes, assurent une présentation impeccable. Optimisés pour une expérience utilisateur fluide, nos sites offrent une rapidité exceptionnelle. Notre marketing discret mais puissant maximise vos vente sans compromettre votre marque, avec des stratégies personnalisées pour un impact maximal dans le monde numérique concurrentiel.",
+      "getStarted": "A partir de 750 €"
+    },
+    "application": {
+      "title": "Création d’application web et mobile",
+      "description": "Chez Nektar Agency, notre service de création d'applications web et mobile repose exclusivement sur les dernières technologies, garantissant une expérience de développement à la fois moderne et robuste. Avec une expertise approfondie dans des frameworks tels que React et Angular, des solutions back-end basées sur Node.js, Jest pour les tests et des bases de données fiables comme MongoDB, nous forgeons des applications qui se démarquent par leur innovation technologique. Que vous aspiriez à une interface web dynamique ou à une application mobile réactive, notre engagement envers ces technologies de pointe assure des performances exceptionnelles et une adaptabilité sans compromis. Optez pour Nektar Agency et propulsez votre vision digitale vers de nouveaux sommets.",
+      "getStarted": "A partir de 1050 €"
+    },
+    "Formation": {
+      "title": "Conseil, Formation & Maintenance",
+      "description": "Chez Nektar Agency, nous vous accompagnons à chaque étape de votre projet, en ajustant constamment nos conseils pour respecter votre budget et vos délais. Après la livraison de votre site ou application, notre équipe vous offre une formation approfondie, vous assurant une utilisation optimale de votre nouvelle plateforme. Nous restons également disponibles pour répondre à toutes vos questions Enfin, nous vous proposons un service de maintenance complet, garantissant ainsi que votre site ou application reste à jour et sécurisé.",
+      "getStarted": "A partir de 1350 €"
+    }
+
+  },
+  "footer": {
+    "terms": "Privacy policy",
+    "company": "Our Company",
+    "social": {
+      "facebook": {
+        "title": "facebook",
+        "link": "https://web.facebook.com/"
+      },
+      "twitter": {
+        "title": "twitter",
+        "link": "https://www.twitter.com/"
+      },
+      "instagram": {
+        "title": "instagram",
+        "link": "https://www.instagram.com/"
+      }
+    }
+  }
+}

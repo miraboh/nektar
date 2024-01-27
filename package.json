@@ -9,8 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "i18next": "^23.7.20",
+    "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.0"
-  }
+    "react-i18next": "^14.0.1",
+    "react-scroll": "^1.8.9",
+    "styled-components": "^6.0.0-rc.2"
+    },
+    "devDependencies": {
+      "@svgr/webpack": "^8.0.1",
+      "@types/react": "^17.0.2",
+      "@types/react-dom": "^17.0.2",
+      "classnames": "2.3.1",
+      "eslint": "7.32.0",
+      "eslint-config-next": "11.1.2",
+      "file-loader": "6.2.0",
+      "sass": "1.42.1"
+    }
 }

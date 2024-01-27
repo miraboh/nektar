@@ -1,0 +1,31 @@
+.scroll-up {
+  position: fixed;
+  background-color: #ff6c00;
+  right: 1rem;
+  bottom: -20%;
+  display: inline-flex;
+  padding: 0.3rem;
+  border-radius: 0.25rem;
+  z-index: var(--z-tooltip);
+  opacity: 0.8;
+  transition: 0.4s;
+
+  &:hover {
+    background-color: #000000;
+    opacity: 1;
+  }
+
+  &--show {
+    bottom: 5rem;
+  }
+
+  &__icon {
+    font-size: 1.25rem;
+    color: #ffffff;
+  }
+
+  /* For large devices */
+  @media screen and (min-width: 1024px) {
+    right: 2rem;
+  }
+}
